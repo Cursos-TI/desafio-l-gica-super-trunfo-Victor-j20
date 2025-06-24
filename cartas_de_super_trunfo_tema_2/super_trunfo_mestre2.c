@@ -4,7 +4,7 @@ int main (){
   
 //Lista de Variáveis e seus Tipos Utilizados ao longo do Código.  
     int opcoes, escolha_2, escolha_3;
-    char  escolha; 
+    char escolha; 
     char carta1[20], carta2[20];
     char estado1, estado2;
     char codigo1[20], codigo2[20];
